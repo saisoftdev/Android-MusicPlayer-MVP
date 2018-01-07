@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ola Play Studio</string>
+    <string name="notification_channel">OLA_Channel_ID</string>
+    <string name="notification_channel_description">Channel ID for OLA</string>
+    <string name="label_pause" translatable="false">Pause</string>
+    <string name="label_play" translatable="false">Play</string>
+    <string name="label_previous" translatable="false">Previous</string>
+    <string name="label_next" translatable="false">Next</string>
+</resources>
